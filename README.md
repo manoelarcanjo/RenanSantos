@@ -90,11 +90,15 @@ http://localhost:8000
 ## Link do deploy
 
 [https://renan-santos-beta.vercel.app]
+[https://github.com/manoelarcanjo/RenanSantos]
+[https://docs.google.com/spreadsheets/d/1VxLS4vBJYAac-vxw2W95YqrPbLUR-RPl2HuTR_l_A2s/edit?gid=0#gid=0]
 
 Exemplo:
 
 ```text
 https://renan-santos-beta.vercel.app
+https://docs.google.com/spreadsheets/d/1VxLS4vBJYAac-vxw2W95YqrPbLUR-RPl2HuTR_l_A2s/edit?gid=0#gid=0
+https://github.com/manoelarcanjo/RenanSantos
 ```
 
 ## Observações
